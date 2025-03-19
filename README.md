@@ -95,5 +95,8 @@ This project is a **data-driven production analysis and optimisation tool** desi
 
 ## Dashboard
 
-![Screenshot demo1](https://github.com/Mutiu123/Excel-Based-Sales-and-Profit-Analysis-Dashboard-for-Business-Optimisation/blob/main/demo/Screenshot%202025-03-16%20214739.jpg)
+![Screenshot demo](https://github.com/Mutiu123/Production-Performance-Analysis-Dashboard-in-Excel/blob/main/demo/Screenshot%202025-03-19%20113432.jpg)
 
+## Filtered Dashboard
+
+![Screenshot demo1](https://github.com/Mutiu123/Production-Performance-Analysis-Dashboard-in-Excel/blob/main/demo/filtered%20dashboard.jpg)
