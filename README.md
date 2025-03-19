@@ -51,8 +51,8 @@ This project is a **data-driven production analysis and optimisation tool** desi
 
 ## Tools and Technologies
 
-- **Excel** (or **Power BI** for more advanced interactivity).
-- **Data Analysis**: Pivot tables, formulas, and charts in Excel (or Python for advanced analysis).
+- **Excel**.
+- **Data Analysis**: Pivot tables, formulas, and charts in Excel.
 - **Visualisation**: Interactive dashboards with slicers and dynamic charts.
 
 ---
@@ -84,10 +84,6 @@ This project is a **data-driven production analysis and optimisation tool** desi
 - **User-Friendly**: The interactive dashboard makes it easy for non-technical users to explore data and make decisions.
 - **Real-World Applicability**: Addresses real-world challenges in production management, making it highly relevant for industries with diverse production lines.
 
----
-
-## GitHub Project Title
-"Comprehensive Production Performance and Optimisation Dashboard"
 
 
 
