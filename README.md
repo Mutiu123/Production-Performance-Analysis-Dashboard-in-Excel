@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project is a **data-driven production analysis and optimisation tool** designed to provide actionable insights into production performance, cost efficiency, and resource allocation across different product types, managers, and regions. The project leverages **Excel** (or other tools like Power BI or Python) to create an **interactive dashboard** that helps stakeholders make informed decisions by analysing key metrics such as unit production, costs, task completion rates, and productivity trends.
+This project is a **data-driven production analysis and optimisation tool** designed to provide actionable insights into production performance, cost efficiency, and resource allocation across different product types, managers, and regions. The project leverages **Excel** to create an **interactive dashboard** that helps stakeholders make informed decisions by analysing key metrics such as unit production, costs, task completion rates, and productivity trends.
 
 ---
 
